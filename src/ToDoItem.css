@@ -1,0 +1,11 @@
+.deleteBtn {
+  position: absolute;
+  right: 28%;
+}
+
+.listItem {
+  border-radius: 25px;
+  margin: 5px;
+  background-color: #a79ab2;
+  padding: 10px;
+}
